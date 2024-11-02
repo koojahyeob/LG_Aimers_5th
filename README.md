@@ -8,6 +8,7 @@ LG Aimers는 최고의 교수진이 함께 하는 AI교육과 LG의 실제 데�
 디스플레이 제품 이상 여부 판별 프로젝트
 
 ## 리더보드
-Public : 0.206674 (98/740) <br>
-Final : 0.215873 (55/740)
+- Public : 0.206674 (98/740) <br>
+- Final : 0.215873 (55/740) <br>
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/d772e2ea-9906-473e-9b85-5d6df8264d09">
 
